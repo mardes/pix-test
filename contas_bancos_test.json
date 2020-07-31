@@ -34,8 +34,24 @@
 	"ispb": "60701190",
 	"instituição": "ITAÚ UNIBANCO S.A.",
 	"agencia": "1500",
+	"conta": "00591704",
+	"numero_documento": "60701190000104",
+	"tipo_pessoa": "J"
+},
+{
+	"ispb": "60701190",
+	"instituição": "ITAÚ UNIBANCO S.A.",
+	"agencia": "1500",
 	"conta": "00601743",
 	"numero_documento": "58858474872",
+	"tipo_pessoa": "F"
+},
+{
+	"ispb": "04715685",
+	"instituição": "SICOOB CREDITRAN",
+	"agencia": "0001",
+	"conta": "700035184",
+	"numero_documento": "04604592446",
 	"tipo_pessoa": "F"
 }
 ]
