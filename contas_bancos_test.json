@@ -1,0 +1,41 @@
+[{
+	"ispb": "00000000",
+	"instituição": "BCO DO BRASIL S.A.",
+	"agencia": "0551",
+	"conta": "753920",
+	"numero_documento": "94889608095",
+	"tipo_pessoa": "F"
+},
+{
+	"ispb": "71027866",
+	"instituição": "BCO BS2 S.A.",
+	"agencia": "0001",
+	"conta": "257079",
+	"numero_documento": "42562583612",
+	"tipo_pessoa": "F"
+},
+{
+	"ispb": "00416968",
+	"instituição": "BANCO INTER",
+	"agencia": "0001",
+	"conta": "41311949",
+	"numero_documento": "60701190000104",
+	"tipo_pessoa": "J"
+},
+{
+	"ispb": "60701190",
+	"instituição": "ITAÚ UNIBANCO S.A.",
+	"agencia": "1500",
+	"conta": "00576499",
+	"numero_documento": "11720489670",
+	"tipo_pessoa": "F"
+},
+{
+	"ispb": "60701190",
+	"instituição": "ITAÚ UNIBANCO S.A.",
+	"agencia": "1500",
+	"conta": "00601743",
+	"numero_documento": "58858474872",
+	"tipo_pessoa": "F"
+}
+]
