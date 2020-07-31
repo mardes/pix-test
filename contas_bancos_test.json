@@ -1,17 +1,17 @@
 [{
-	"ispb": "00000000",
-	"instituição": "BCO DO BRASIL S.A.",
-	"agencia": "0551",
-	"conta": "753920",
-	"numero_documento": "94889608095",
-	"tipo_pessoa": "F"
-},
-{
 	"ispb": "71027866",
 	"instituição": "BCO BS2 S.A.",
 	"agencia": "0001",
 	"conta": "257079",
 	"numero_documento": "42562583612",
+	"tipo_pessoa": "F"
+},
+{
+	"ispb": "00000000",
+	"instituição": "BCO DO BRASIL S.A.",
+	"agencia": "0551",
+	"conta": "753920",
+	"numero_documento": "94889608095",
 	"tipo_pessoa": "F"
 },
 {
