@@ -18,9 +18,25 @@
 	"ispb": "00416968",
 	"instituicao": "BANCO INTER",
 	"agencia": "0001",
-	"conta": "41311949",
+	"conta": "0009873465",
+	"numero_documento": "90109356632",
+	"tipo_pessoa": "F"
+},
+{
+	"ispb": "00416968",
+	"instituicao": "BANCO INTER",
+	"agencia": "0001",
+	"conta": "0041311949",
 	"numero_documento": "60701190000104",
 	"tipo_pessoa": "J"
+},
+{
+	"ispb": "92702067",
+	"instituicao": "BCO DO ESTADO DO RS S.A.",
+	"agencia": "0030",
+	"conta": "3507652502",
+	"numero_documento": "54356835050",
+	"tipo_pessoa": "F"
 },
 {
 	"ispb": "60701190",
